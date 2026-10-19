@@ -1,0 +1,181 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "PHY_TX[0]",
+					"strict" : false
+				},
+				{
+					"name" : "PHY_TX[1]",
+					"strict" : false
+				},
+				{
+					"name" : "PHY_TX[2]",
+					"strict" : false
+				},
+				{
+					"name" : "PHY_TX[3]",
+					"strict" : false
+				},
+				{
+					"name" : "PHY_TX_CLOCK",
+					"strict" : false
+				},
+				{
+					"name" : "PHY_TX_EN",
+					"strict" : false
+				},
+				{
+					"name" : "PHY_RESET_N",
+					"strict" : false
+				},
+				{
+					"name" : "DCLK",
+					"strict" : false
+				},
+				{
+					"name" : "DATAOUT",
+					"strict" : false
+				},
+				{
+					"name" : "FLASH_NCE",
+					"strict" : false
+				},
+				{
+					"name" : "UO[0]",
+					"strict" : false
+				},
+				{
+					"name" : "UO[1]",
+					"strict" : false
+				},
+				{
+					"name" : "UO[2]",
+					"strict" : false
+				},
+				{
+					"name" : "UO[3]",
+					"strict" : false
+				},
+				{
+					"name" : "UO[4]",
+					"strict" : false
+				},
+				{
+					"name" : "UO[5]",
+					"strict" : false
+				},
+				{
+					"name" : "UO[6]",
+					"strict" : false
+				},
+				{
+					"name" : "UO[7]",
+					"strict" : false
+				},
+				{
+					"name" : "TUNE",
+					"strict" : false
+				},
+				{
+					"name" : "ANT_2",
+					"strict" : false
+				},
+				{
+					"name" : "ANT_3",
+					"strict" : false
+				},
+				{
+					"name" : "PTT_out",
+					"strict" : false
+				},
+				{
+					"name" : "u_tx",
+					"strict" : false
+				},
+				{
+					"name" : "led1",
+					"strict" : false
+				},
+				{
+					"name" : "led2",
+					"strict" : false
+				},
+				{
+					"name" : "led3",
+					"strict" : false
+				},
+				{
+					"name" : "led4",
+					"strict" : false
+				},
+				{
+					"name" : "test1",
+					"strict" : false
+				},
+				{
+					"name" : "PHY_MDIO",
+					"strict" : false
+				},
+				{
+					"name" : "PTT_in_UO",
+					"strict" : false
+				},
+				{
+					"name" : "INA_CLK",
+					"strict" : false
+				},
+				{
+					"name" : "PHY_CLK_125",
+					"strict" : false
+				},
+				{
+					"name" : "PHY_RX_CLOCK",
+					"strict" : false
+				},
+				{
+					"name" : "KEY_DOT",
+					"strict" : false
+				},
+				{
+					"name" : "KEY_DASH",
+					"strict" : false
+				},
+				{
+					"name" : "u_rx",
+					"strict" : false
+				},
+				{
+					"name" : "DATAIN",
+					"strict" : false
+				},
+				{
+					"name" : "PHY_RX_DV",
+					"strict" : false
+				},
+				{
+					"name" : "PHY_RX[3]",
+					"strict" : false
+				},
+				{
+					"name" : "PHY_RX[0]",
+					"strict" : false
+				},
+				{
+					"name" : "PHY_RX[2]",
+					"strict" : false
+				},
+				{
+					"name" : "PHY_RX[1]",
+					"strict" : false
+				},
+				{
+					"name" : "random_bit",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
